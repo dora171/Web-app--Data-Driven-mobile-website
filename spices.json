@@ -1,0 +1,112 @@
+[
+   {
+      "id": 0,
+      "name": "Basil",
+      "country": "Italy",
+      "description": "culinary herb of the family Lamiaceae (mints). Basil is native to tropical regions from central Africa to Southeast Asia",
+      "usage": "Best with tomato sauce and served with different vegetables",
+      "scienceName": "Ocimum basilicum",
+      "picSmall": "img/basilSmall.png",
+      "picBig": "img/basilBig.png"
+   },
+   {
+      "id": 1,
+      "name": "Curry",
+      "country": "India",
+      "description": " variety of dishes originating in the Indian subcontinent, dating back to the Indus Valley Civilisation, that use a complex combination of spices or herbs, usually including ground turmeric, cumin, coriander, ginger, and fresh or dried chilies",
+      "usage": "Best with chicken and risotto",
+      "scienceName": "Murraya koenigii",
+      "picSmall": "img/currySmall.png",
+      "picBig": "img/curryBig.png"
+   },
+   {
+      "id": 2,
+      "name": "Rosemary",
+      "country": "not specified exactly, but it comes from south of France and other Mediterranean regions",
+      "description": "is a woody, perennial herb with fragrant, evergreen, needle-like leaves and white, pink, purple, or blue flowers, native to the Mediterranean region. ",
+      "usage": "Best with pork and grilled potatos",
+      "scienceName": "Salvia rosmarinus",
+      "picSmall": "img/rosemarySmall.jpg",
+      "picBig": "img/rosemaryBig.png"
+   },
+   {
+      "id": 3,
+      "name": "Sage",
+      "country": "not specified exactly, but is somewhere from Mediterranean region",
+      "description": " perennial, evergreen subshrub, with woody stems, grayish leaves, and blue to purplish flowers. It is a member of the mint family Lamiaceae and native to the Mediterranean region, though it has naturalized in many places throughout the world.",
+      "usage": "Best with butter and baked potatos",
+      "scienceName": "Salvia officinalis",
+      "picSmall": "img/sageSmall.jpg",
+      "picBig": "img/sageBig.png"
+   },
+   {
+      "id": 4,
+      "name": "Oregano",
+      "country": "Greece",
+      "description": " flowering plant in the mint family. It is native to temperate Western and Southwestern Eurasia and the Mediterranean region. Oregano is a perennial herb, growing from 20–80 cm tall, with opposite leaves 1–4 cm long",
+      "usage": "Best with every meal, especially meat and potatos",
+      "scienceName": "Origanum vulgare",
+      "picSmall": "img/origanoSmall.jpg",
+      "picBig": "img/origanoBig.png"
+   },
+   {
+      "id": 5,
+      "name": "Thyme",
+      "country": "Greece",
+      "description": "contains about 350 species of aromatic perennial herbaceous plants and subshrubs to 40 cm tall in the family Lamiaceae, native to temperate regions in Europe, North Africa and Asia",
+      "usage": "Best with red meat and fish",
+      "scienceName": "Thymus vulgaris",
+      "picSmall": "img/thymeSmall.png",
+      "picBig": "img/thymeBig.png"
+   },
+   {
+      "id": 6,
+      "name": "Chive",
+      "country": "China",
+      "description": "very popular garnishing spice in French and Chinese cooking. The name “chives” is derived from the Latin word cepa, meaning onion, which later became cive in French. Called little onion in European languages, they are related to onion, leek, and garlic and used as spice or vegetable, depending on the region. Chives are native to Central Asia and now cultivated in Scandinavia, Germany, Britain, China, and Southeast Asia.",
+      "usage": "Best with soups, stew and various risottos",
+      "scienceName": "Allium schoenoprasum",
+      "picSmall": "img/chiveSmall.png",
+      "picBig": "img/chiveBig.png"
+   },
+   {
+      "id": 7,
+      "name": "Ginger",
+      "country": "not specified, but somewhere in Southeast Asia",
+      "description": " flowering plant whose rhizome, ginger root or ginger, is widely used as a spice and a folk medicine. It is a herbaceous perennial which grows annual pseudostems about one meter tall bearing narrow leaf blades",
+      "usage": "Best with salamon, in various souces togetehr with soja souce",
+      "scienceName": "Zingiber officinale",
+      "picSmall": "img/gingerSmall.png",
+      "picBig": "img/gingerBig.png"
+   },
+   {
+      "id": 8,
+      "name": "Cumin",
+      "country": "not specified, but somewhere in Asia",
+      "description": "flowering plant in the family Apiaceae, native to southwestern Asia including the Middle East. Its seeds – each one contained within a fruit, which is dried – are used in the cuisines of many cultures in both whole and ground form",
+      "usage": "Best with bread and baked potatos",
+      "scienceName": "Cuminum cyminum",
+      "picSmall": "img/cuminSmall.jpg",
+      "picBig": "img/cuminBig.png"
+   },
+   {
+      "id": 9,
+      "name": "Clove",
+      "country": "not specified, but maybe from Madagascar, Indonesia and Sri Lanka ",
+      "description": "aromatic flower buds of a tree in the family Myrtaceae, Syzygium aromaticum. They are native to the Maluku Islands in Indonesia, and are commonly used as a spice. Cloves are available throughout the year due to different harvest seasons in different countries",
+      "usage": "Best with cookies and mulled wien",
+      "scienceName": "Syzygium aromaticum",
+      "picSmall": "img/cloveSmall.jpg",
+      "picBig": "img/cloveBig.png"
+   },
+   {
+      "id": 10,
+      "name": "StarAnis",
+      "country": "not specified, but maybe from China",
+      "description": "medium-sized evergreen tree native to northeast Vietnam and southwest China. A spice commonly called star anise, staranise, star anise seed, Chinese star anise, or badian that closely resembles anise in flavor is obtained from the star-shaped pericarps of the fruit of I. verum which are harvested just before ripening. Star anise oil is a highly fragrant oil used in cooking, perfumery, soaps, toothpastes, mouthwashes, and skin creams. About 90% of the world's star anise crop is used for extraction of shikimic acid, a chemical intermediate used in the synthesis of oseltamivir (Tamiflu)",
+      "usage": "Best with cookies and other sweets, as well as in mulled wine",
+      "scienceName": "Illicium verum",
+      "picSmall": "img/anisSmall.jpg",
+      "picBig": "img/anisBig.png"
+   }
+]
